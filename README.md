@@ -14,7 +14,7 @@
 1. :fire: "[Sugar Coated](https://www.youtube.com/watch?v=TXyQvBr9WdI)" (live from St James's Church, Dingle, Ireland, 2005, from B-side of "High")
 1. :fire: "[Fall at Your Feet](https://www.youtube.com/watch?v=u4fRt0O3J-M)" (live from St James's Church, Dingle, Ireland, 2005, from B-side of "You're Beautiful")
 1. :fire: "[In a Little While](https://www.youtube.com/watch?v=ZzuvhsI2OmQ)" (live from Radio 1 Jo Whiley Session, U2 cover, from B-side of "High")
-1. :fire: "[Where Is My Mind?](https://www.youtube.com/watch?v=x-P9LsOhvrc)" (live from St James's Church, Dingle, Ireland, 2005, from B-side of "High")
+1. :fire: "[Where Is My Mind?](https://www.youtube.com/watch?v=x-P9LsOhvrc)" (live from St James's Church, Dingle, Ireland, 2005, Pixies cover, from B-side of "High")
 1. :cd: "[Butterfly](https://www.youtube.com/watch?v=2kUuErfN5Go)" (from B-side of "High")
 1. :cd: "[Close Your Eyes](https://www.youtube.com/watch?v=Hfs5olExwxc)" (from B-side of "Goodbye My Lover")
 1. :cd: "[I Want You](https://www.youtube.com/watch?v=czCwC0BrMc8)" (Bob Dylan cover, from "Listen to Bob Dylan: A Tribute" album)
