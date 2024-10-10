@@ -1,7 +1,5 @@
 # James Blunt
 
-:exclamation: Incorrect songs: "Bridge over Troubled Water" :exclamation:
-
 ### [Back to Bedlam](https://www.youtube.com/watch_videos?title=Back%20to%20Bedlam&video_ids=OfFrxv-wsG8,jrMaxqB2tro,gWWP4VFb5iw,NtAQ_6_a22U,vnBHrH7QWfk,cKsKPJAo7ac,6rZivIRE5ZM,nsMRwbPfX6Y,tEjswCcKrvU,P50LTp3E8po,TXyQvBr9WdI,u4fRt0O3J-M,ZzuvhsI2OmQ,x-P9LsOhvrc,2kUuErfN5Go,Hfs5olExwxc,czCwC0BrMc8,fmR5-1vqPR0,SRWKNLDZiHI)
 1. :fire: "[High](https://www.youtube.com/watch?v=OfFrxv-wsG8)" (live from St James's Church, Dingle, Ireland, 2005)
 1. :fire: "[You're Beautiful](https://www.youtube.com/watch?v=jrMaxqB2tro)" (live from St James's Church, Dingle, Ireland, 2005)
@@ -85,7 +83,7 @@
 1. :cd: "[Heroes](https://www.youtube.com/watch?v=yKR5CHbifEo)" (from B-side of "Bonfire Heart")
 1. :cd: "[I Guess That's Why They Call It the Blues](https://www.youtube.com/watch?v=3j9YJo9IdFQ)" (Elton John cover, from BBC Radio 2: Sounds of the 80s)
 
-### [The Afterlove](https://www.youtube.com/watch_videos?title=The%20Afterlove&video_ids=RFHHEac83B8,QAyjgG0-Deg,llvGsoi4xwQ,yJZh9NWdXrE,_JfGdDtBstQ,Wgs2ahWHjHQ,N12lUcqYUL0,QeIK7OeoKFc,egwr4PNDBQM,UliRcD0FEAI,D-cPwHBqG-w,orS6b4YQGPs,qBeR8byJy3w,9kxQ7GFngTA,_vBCAwHXD3o,hXrtQjiyfBg,q_5KPQR1Lrs)
+### [The Afterlove](https://www.youtube.com/watch_videos?title=The%20Afterlove&video_ids=RFHHEac83B8,QAyjgG0-Deg,llvGsoi4xwQ,yJZh9NWdXrE,_JfGdDtBstQ,Wgs2ahWHjHQ,N12lUcqYUL0,QeIK7OeoKFc,egwr4PNDBQM,UliRcD0FEAI,D-cPwHBqG-w,orS6b4YQGPs,qBeR8byJy3w,9kxQ7GFngTA,8O1CcwYf79I,hXrtQjiyfBg,q_5KPQR1Lrs)
 1. :cd: "[Love Me Better](https://www.youtube.com/watch?v=RFHHEac83B8)"
 1. :cd: "[Bartender](https://www.youtube.com/watch?v=QAyjgG0-Deg)"
 1. :cd: "[Lose My Number](https://www.youtube.com/watch?v=llvGsoi4xwQ)"
@@ -100,7 +98,7 @@
 1. :cd: "[2005](https://www.youtube.com/watch?v=orS6b4YQGPs)" (from extended version)
 1. :cd: "[Over](https://www.youtube.com/watch?v=qBeR8byJy3w)" (from extended version)
 1. :fire: "[OK](https://www.youtube.com/watch?v=9kxQ7GFngTA)" (live from Ed Sheeran Tour, Tampa, 2017, from extended version)
-1. :cd: "[Bridge over Troubled Water](https://www.youtube.com/watch?v=_vBCAwHXD3o)" (Simon & Garfunkel cover, from Artists for Grenfell Tower charity single)
+1. :cd: "[Bridge over Troubled Water](https://www.youtube.com/watch?v=8O1CcwYf79I)" (Simon & Garfunkel cover, from Artists for Grenfell Tower charity single)
 1. :cd: "[Melody](https://www.youtube.com/watch?v=hXrtQjiyfBg)" (from "Alive and Feeling Fine" album by Lost Frequencies)
 1. :cd: "[Walk Away](https://www.youtube.com/watch?v=q_5KPQR1Lrs)" (from "Sticker on My Suitcase" album by Alle Farben)
 
