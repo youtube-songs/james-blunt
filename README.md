@@ -1,7 +1,5 @@
 # James Blunt
 
-:exclamation: Incorrect songs: "There She Goes Again" :exclamation:
-
 ### [Back to Bedlam](https://www.youtube.com/watch_videos?title=Back%20to%20Bedlam&video_ids=OfFrxv-wsG8,jrMaxqB2tro,gWWP4VFb5iw,NtAQ_6_a22U,vnBHrH7QWfk,cKsKPJAo7ac,6rZivIRE5ZM,nsMRwbPfX6Y,tEjswCcKrvU,P50LTp3E8po,TXyQvBr9WdI,u4fRt0O3J-M,ZzuvhsI2OmQ,x-P9LsOhvrc,2kUuErfN5Go,Hfs5olExwxc,czCwC0BrMc8,fmR5-1vqPR0,SRWKNLDZiHI)
 1. :fire: "[High](https://www.youtube.com/watch?v=OfFrxv-wsG8)" (live from St James's Church, Dingle, Ireland, 2005)
 1. :fire: "[You're Beautiful](https://www.youtube.com/watch?v=jrMaxqB2tro)" (live from St James's Church, Dingle, Ireland, 2005)
@@ -43,7 +41,7 @@
 1. :cd: "[Dear Katie](https://www.youtube.com/watch?v=UOIpalbOThc)" (from B-side of "1973")
 1. :cd: "[So Happy](https://www.youtube.com/watch?v=GNaMgweEr9I)" (from B-side of "1973")
 
-### [Some Kind of Trouble](https://www.youtube.com/watch_videos?title=Some%20Kind%20of%20Trouble&video_ids=VjXQc0qplWk,ffuPKpaLjLg,eSee1DNyMyg,QfiJ4CySJSE,gQPPztimPXs,GL9esIRRyCk,uCYr7Q2EVio,Ej13DeRaaOw,v-Xcyv2JAmg,IUkLOUNxP8A,riz4AA35hD4,qXURanouVoU,b7No2SF3V-8,86LYA4GK9Fc,3-1te-33RWI,pJlGGAiqDa8)
+### [Some Kind of Trouble](https://www.youtube.com/watch_videos?title=Some%20Kind%20of%20Trouble&video_ids=VjXQc0qplWk,ffuPKpaLjLg,eSee1DNyMyg,QfiJ4CySJSE,gQPPztimPXs,GL9esIRRyCk,uCYr7Q2EVio,Ej13DeRaaOw,v-Xcyv2JAmg,IUkLOUNxP8A,riz4AA35hD4,qXURanouVoU,sTLUj_Ogc8I,86LYA4GK9Fc,3-1te-33RWI,pJlGGAiqDa8)
 1. :cd: "[Stay the Night](https://www.youtube.com/watch?v=VjXQc0qplWk)"
 1. :cd: "[Dangerous](https://www.youtube.com/watch?v=ffuPKpaLjLg)"
 1. :cd: "[Best Laid Plans](https://www.youtube.com/watch?v=eSee1DNyMyg)"
@@ -56,7 +54,7 @@
 1. :cd: "[I'll Be Your Man](https://www.youtube.com/watch?v=IUkLOUNxP8A)"
 1. :fire: "[If Time Is All I Have](https://www.youtube.com/watch?v=riz4AA35hD4)" (live from Metropolis Studios, London, 2010)
 1. :cd: "[Turn Me On](https://www.youtube.com/watch?v=qXURanouVoU)"
-1. :cd: "[There She Goes Again](https://www.youtube.com/watch?v=b7No2SF3V-8)" (from digital edition bonus)
+1. :cd: "[There She Goes Again](https://www.youtube.com/watch?v=sTLUj_Ogc8I)" (from digital edition bonus)
 1. :cd: "[Into the Dark](https://www.youtube.com/watch?v=86LYA4GK9Fc)" (from digital edition bonus)
 1. :cd: "[This Love Again](https://www.youtube.com/watch?v=3-1te-33RWI)" (from B-side of "I'll Be Your Man")
 1. :cd: "[Why Do I Fall](https://www.youtube.com/watch?v=pJlGGAiqDa8)" (from "Titeuf" soundtrack)
