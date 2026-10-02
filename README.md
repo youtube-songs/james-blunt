@@ -1,24 +1,26 @@
 # James Blunt
 
-### [Back to Bedlam](https://www.youtube.com/watch_videos?title=Back%20to%20Bedlam&video_ids=OfFrxv-wsG8,jrMaxqB2tro,gWWP4VFb5iw,NtAQ_6_a22U,vnBHrH7QWfk,cKsKPJAo7ac,6rZivIRE5ZM,nsMRwbPfX6Y,tEjswCcKrvU,P50LTp3E8po,TXyQvBr9WdI,u4fRt0O3J-M,ZzuvhsI2OmQ,x-P9LsOhvrc,2kUuErfN5Go,Hfs5olExwxc,czCwC0BrMc8,fmR5-1vqPR0,SRWKNLDZiHI)
-1. :fire: "[High](https://www.youtube.com/watch?v=OfFrxv-wsG8)" (live from St James's Church, Dingle, Ireland, 2005)
-1. :fire: "[You're Beautiful](https://www.youtube.com/watch?v=jrMaxqB2tro)" (live from St James's Church, Dingle, Ireland, 2005)
-1. :fire: "[Wisemen](https://www.youtube.com/watch?v=gWWP4VFb5iw)" (live from St James's Church, Dingle, Ireland, 2005)
-1. :fire: "[Goodbye My Lover](https://www.youtube.com/watch?v=NtAQ_6_a22U)" (live from St James's Church, Dingle, Ireland, 2005)
-1. :fire: "[Tears and Rain](https://www.youtube.com/watch?v=vnBHrH7QWfk)" (live from St James's Church, Dingle, Ireland, 2005)
-1. :fire: "[Out of My Mind](https://www.youtube.com/watch?v=cKsKPJAo7ac)" (live from BBC Elstree Centre, Borehamwood, England, 2005)
-1. :fire: "[So Long, Jimmy](https://www.youtube.com/watch?v=6rZivIRE5ZM)" (live from St James's Church, Dingle, Ireland, 2005)
-1. :fire: "[Billy](https://www.youtube.com/watch?v=nsMRwbPfX6Y)" (live from St James's Church, Dingle, Ireland, 2005)
-1. :fire: "[Cry](https://www.youtube.com/watch?v=tEjswCcKrvU)" (live from St James's Church, Dingle, Ireland, 2005)
-1. :fire: "[No Bravery](https://www.youtube.com/watch?v=P50LTp3E8po)" (live from St James's Church, Dingle, Ireland, 2005)
-1. :fire: "[Sugar Coated](https://www.youtube.com/watch?v=TXyQvBr9WdI)" (live from St James's Church, Dingle, Ireland, 2005, from B-side of "High")
-1. :fire: "[Fall at Your Feet](https://www.youtube.com/watch?v=u4fRt0O3J-M)" (live from St James's Church, Dingle, Ireland, 2005, from B-side of "You're Beautiful")
-1. :fire: "[In a Little While](https://www.youtube.com/watch?v=ZzuvhsI2OmQ)" (live from Radio 1 Jo Whiley Session, U2 cover, from B-side of "High")
-1. :fire: "[Where Is My Mind?](https://www.youtube.com/watch?v=x-P9LsOhvrc)" (live from St James's Church, Dingle, Ireland, 2005, Pixies cover, from B-side of "High")
-1. :cd: "[Butterfly](https://www.youtube.com/watch?v=2kUuErfN5Go)" (from B-side of "High")
-1. :cd: "[Close Your Eyes](https://www.youtube.com/watch?v=Hfs5olExwxc)" (from B-side of "Goodbye My Lover")
+### [Back to Bedlam](https://www.youtube.com/watch_videos?title=Back%20to%20Bedlam&video_ids=64sWhkynp_c,yJYcrYnAEoU,_clmRy1mqoQ,8AOvnzBQBYM,pVYIKhcgTq4,aQuM1ArilYY,fUYJ55Te3G0,zyAaZcO9W90,oCXMq3JPEm8,MYSU8pSXLcc,YeWfePCXcAk,J4tk66HGD9Y,ZzuvhsI2OmQ,-TSjnud8tzA,svjmSQTOO6Y,x-P9LsOhvrc,8o3qKiwjNtM,CL2etiP4K-o,czCwC0BrMc8,fmR5-1vqPR0,SRWKNLDZiHI)
+1. :cd: "[High](https://www.youtube.com/watch?v=64sWhkynp_c)"
+1. :cd: "[You're Beautiful](https://www.youtube.com/watch?v=yJYcrYnAEoU)"
+1. :cd: "[Wisemen](https://www.youtube.com/watch?v=_clmRy1mqoQ)"
+1. :cd: "[Goodbye My Lover](https://www.youtube.com/watch?v=8AOvnzBQBYM)"
+1. :cd: "[Tears and Rain](https://www.youtube.com/watch?v=pVYIKhcgTq4)"
+1. :cd: "[Out of My Mind](https://www.youtube.com/watch?v=aQuM1ArilYY)"
+1. :cd: "[So Long, Jimmy](https://www.youtube.com/watch?v=fUYJ55Te3G0)"
+1. :cd: "[Billy](https://www.youtube.com/watch?v=zyAaZcO9W90)"
+1. :cd: "[Cry](https://www.youtube.com/watch?v=oCXMq3JPEm8)"
+1. :cd: "[No Bravery](https://www.youtube.com/watch?v=MYSU8pSXLcc)"
+1. :cd: "[Sugar-Coated](https://www.youtube.com/watch?v=YeWfePCXcAk)" (from B-side of "High")
+1. :cd: "[Fall at Your Feet](https://www.youtube.com/watch?v=J4tk66HGD9Y)" (Crowded House cover, from B-side of "You're Beautiful")
+1. :fire: "[In a Little While](https://www.youtube.com/watch?v=ZzuvhsI2OmQ)" (live from Radio 1 Jo Whiley Session, 2005, U2 cover, from B-side of "High")
+1. :cd: "[Butterfly](https://www.youtube.com/watch?v=-TSjnud8tzA)" (from B-side of "High")
+1. :cd: "[Close Your Eyes](https://www.youtube.com/watch?v=svjmSQTOO6Y)" (from B-side of "Goodbye My Lover")
+1. :fire: "[Where Is My Mind?](https://www.youtube.com/watch?v=x-P9LsOhvrc)" (live from St James's Church, Dingle, Ireland, 2005, Pixies cover, from B-side of "Goodbye My Lover")
+1. :cd: "[Dancing Days](https://www.youtube.com/watch?v=8o3qKiwjNtM)" (from 20th anniversary edition)
+1. :cd: "[Standing All Alone](https://www.youtube.com/watch?v=CL2etiP4K-o)" (from 20th anniversary edition)
 1. :cd: "[I Want You](https://www.youtube.com/watch?v=czCwC0BrMc8)" (Bob Dylan cover, from "Listen to Bob Dylan: A Tribute" album)
-1. :cd: "[If There's Any Justice](https://www.youtube.com/watch?v=fmR5-1vqPR0)" (Lemar cover, from "Radio 1's Live Lounge" album)
+1. :fire: "[If There's Any Justice](https://www.youtube.com/watch?v=fmR5-1vqPR0)" (live from Radio 1 Jo Whiley Live Lounge, 2006, Lemar cover, from "Radio 1's Live Lounge" album)
 1. :cd: "[Rocky Raccoon](https://www.youtube.com/watch?v=SRWKNLDZiHI)" (The Beatles cover)
 
 ### [All the Lost Souls](https://www.youtube.com/watch_videos?title=All%20the%20Lost%20Souls&video_ids=g8vHqU9giRY,6caQKKnQfR0,3loQ4SEDico,rQKGjkP_hLo,zNXoFURj7Ow,WX98eRU1RPU,4eapcyJKiNo,0gS6CBqm4eQ,bNvp7qX24kw,gnUZIMrlPFY,5KnLRoz3kL8,Z3ZG2STx0UA,ywC9OCy1q6E,d6bGptrGyRA,DJj_9i577Go,4ubkK4O4Sf8,UOIpalbOThc,GNaMgweEr9I)
