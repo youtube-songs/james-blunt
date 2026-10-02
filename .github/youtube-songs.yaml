@@ -3,59 +3,54 @@ title: James Blunt
 
 'Back to Bedlam':
     'High':
-        id: OfFrxv-wsG8
-        live: St James's Church, Dingle, Ireland, 2005
+        id: 64sWhkynp_c
     "You're Beautiful":
-        id: jrMaxqB2tro
-        live: St James's Church, Dingle, Ireland, 2005
+        id: yJYcrYnAEoU
     'Wisemen':
-        id: gWWP4VFb5iw
-        live: St James's Church, Dingle, Ireland, 2005
+        id: _clmRy1mqoQ
     'Goodbye My Lover':
-        id: NtAQ_6_a22U
-        live: St James's Church, Dingle, Ireland, 2005
+        id: 8AOvnzBQBYM
     'Tears and Rain':
-        id: vnBHrH7QWfk
-        live: St James's Church, Dingle, Ireland, 2005
+        id: pVYIKhcgTq4
     'Out of My Mind':
-        id: cKsKPJAo7ac
-        live: BBC Elstree Centre, Borehamwood, England, 2005
+        id: aQuM1ArilYY
     'So Long, Jimmy':
-        id: 6rZivIRE5ZM
-        live: St James's Church, Dingle, Ireland, 2005
+        id: fUYJ55Te3G0
     'Billy':
-        id: nsMRwbPfX6Y
-        live: St James's Church, Dingle, Ireland, 2005
+        id: zyAaZcO9W90
     'Cry':
-        id: tEjswCcKrvU
-        live: St James's Church, Dingle, Ireland, 2005
+        id: oCXMq3JPEm8
     'No Bravery':
-        id: P50LTp3E8po
-        live: St James's Church, Dingle, Ireland, 2005
-    'Sugar Coated':
-        id: TXyQvBr9WdI
-        live: St James's Church, Dingle, Ireland, 2005
+        id: MYSU8pSXLcc
+    'Sugar-Coated':
+        id: YeWfePCXcAk
         source: B-side of "High"
     'Fall at Your Feet':
-        id: u4fRt0O3J-M
-        live: St James's Church, Dingle, Ireland, 2005
+        id: J4tk66HGD9Y
+        cover: Crowded House
         source: B-side of "You're Beautiful"
     'In a Little While':
         id: ZzuvhsI2OmQ
         cover: U2
-        live: Radio 1 Jo Whiley Session
+        live: Radio 1 Jo Whiley Session, 2005
         source: B-side of "High"
+    'Butterfly':
+        id: -TSjnud8tzA
+        source: B-side of "High"
+    'Close Your Eyes':
+        id: svjmSQTOO6Y
+        source: B-side of "Goodbye My Lover"
     'Where Is My Mind?':
         id: x-P9LsOhvrc
         cover: Pixies
         live: St James's Church, Dingle, Ireland, 2005
-        source: B-side of "High"
-    'Butterfly':
-        id: 2kUuErfN5Go
-        source: B-side of "High"
-    'Close Your Eyes':
-        id: Hfs5olExwxc
         source: B-side of "Goodbye My Lover"
+    'Dancing Days':
+        id: 8o3qKiwjNtM
+        source: 20th anniversary edition
+    'Standing All Alone':
+        id: CL2etiP4K-o
+        source: 20th anniversary edition
     'I Want You':
         id: czCwC0BrMc8
         cover: Bob Dylan
@@ -63,6 +58,7 @@ title: James Blunt
     "If There's Any Justice":
         id: fmR5-1vqPR0
         cover: Lemar
+        live: Radio 1 Jo Whiley Live Lounge, 2006
         source: '"Radio 1''s Live Lounge" album'
     'Rocky Raccoon':
         id: SRWKNLDZiHI
