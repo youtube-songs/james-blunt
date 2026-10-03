@@ -1,6 +1,6 @@
 # James Blunt
 
-### [Back to Bedlam](https://www.youtube.com/watch_videos?title=Back%20to%20Bedlam&video_ids=64sWhkynp_c,yJYcrYnAEoU,_clmRy1mqoQ,8AOvnzBQBYM,pVYIKhcgTq4,aQuM1ArilYY,fUYJ55Te3G0,zyAaZcO9W90,oCXMq3JPEm8,MYSU8pSXLcc,YeWfePCXcAk,J4tk66HGD9Y,ZzuvhsI2OmQ,-TSjnud8tzA,svjmSQTOO6Y,x-P9LsOhvrc,8o3qKiwjNtM,CL2etiP4K-o,czCwC0BrMc8,fmR5-1vqPR0,SRWKNLDZiHI)
+### [Back to Bedlam](https://www.youtube.com/watch_videos?title=Back%20to%20Bedlam&video_ids=64sWhkynp_c,yJYcrYnAEoU,_clmRy1mqoQ,8AOvnzBQBYM,pVYIKhcgTq4,aQuM1ArilYY,fUYJ55Te3G0,zyAaZcO9W90,oCXMq3JPEm8,MYSU8pSXLcc,8o3qKiwjNtM,CL2etiP4K-o,YeWfePCXcAk,J4tk66HGD9Y,ZzuvhsI2OmQ,-TSjnud8tzA,svjmSQTOO6Y,P0nyycsDjtA,czCwC0BrMc8,fmR5-1vqPR0,SRWKNLDZiHI)
 1. :cd: "[High](https://www.youtube.com/watch?v=64sWhkynp_c)"
 1. :cd: "[You're Beautiful](https://www.youtube.com/watch?v=yJYcrYnAEoU)"
 1. :cd: "[Wisemen](https://www.youtube.com/watch?v=_clmRy1mqoQ)"
@@ -11,37 +11,38 @@
 1. :cd: "[Billy](https://www.youtube.com/watch?v=zyAaZcO9W90)"
 1. :cd: "[Cry](https://www.youtube.com/watch?v=oCXMq3JPEm8)"
 1. :cd: "[No Bravery](https://www.youtube.com/watch?v=MYSU8pSXLcc)"
+1. :cd: "[Dancing Days](https://www.youtube.com/watch?v=8o3qKiwjNtM)" (from 20th anniversary edition)
+1. :cd: "[Standing All Alone](https://www.youtube.com/watch?v=CL2etiP4K-o)" (from 20th anniversary edition)
 1. :cd: "[Sugar-Coated](https://www.youtube.com/watch?v=YeWfePCXcAk)" (from B-side of "High")
 1. :cd: "[Fall at Your Feet](https://www.youtube.com/watch?v=J4tk66HGD9Y)" (Crowded House cover, from B-side of "You're Beautiful")
 1. :fire: "[In a Little While](https://www.youtube.com/watch?v=ZzuvhsI2OmQ)" (live from Radio 1 Jo Whiley Session, 2005, U2 cover, from B-side of "High")
 1. :cd: "[Butterfly](https://www.youtube.com/watch?v=-TSjnud8tzA)" (from B-side of "High")
 1. :cd: "[Close Your Eyes](https://www.youtube.com/watch?v=svjmSQTOO6Y)" (from B-side of "Goodbye My Lover")
-1. :fire: "[Where Is My Mind?](https://www.youtube.com/watch?v=x-P9LsOhvrc)" (live from St James's Church, Dingle, Ireland, 2005, Pixies cover, from B-side of "Goodbye My Lover")
-1. :cd: "[Dancing Days](https://www.youtube.com/watch?v=8o3qKiwjNtM)" (from 20th anniversary edition)
-1. :cd: "[Standing All Alone](https://www.youtube.com/watch?v=CL2etiP4K-o)" (from 20th anniversary edition)
+1. :fire: "[Where Is My Mind?](https://www.youtube.com/watch?v=P0nyycsDjtA)" (live from La Cigale, Paris, 2005, Pixies cover, from B-side of "Goodbye My Lover")
 1. :cd: "[I Want You](https://www.youtube.com/watch?v=czCwC0BrMc8)" (Bob Dylan cover, from "Listen to Bob Dylan: A Tribute" album)
 1. :fire: "[If There's Any Justice](https://www.youtube.com/watch?v=fmR5-1vqPR0)" (live from Radio 1 Jo Whiley Live Lounge, 2006, Lemar cover, from "Radio 1's Live Lounge" album)
 1. :cd: "[Rocky Raccoon](https://www.youtube.com/watch?v=SRWKNLDZiHI)" (The Beatles cover)
 
-### [All the Lost Souls](https://www.youtube.com/watch_videos?title=All%20the%20Lost%20Souls&video_ids=g8vHqU9giRY,6caQKKnQfR0,3loQ4SEDico,rQKGjkP_hLo,zNXoFURj7Ow,WX98eRU1RPU,4eapcyJKiNo,0gS6CBqm4eQ,bNvp7qX24kw,gnUZIMrlPFY,5KnLRoz3kL8,Z3ZG2STx0UA,ywC9OCy1q6E,d6bGptrGyRA,DJj_9i577Go,4ubkK4O4Sf8,UOIpalbOThc,GNaMgweEr9I)
+### [All the Lost Souls](https://www.youtube.com/watch_videos?title=All%20the%20Lost%20Souls&video_ids=g8vHqU9giRY,qRQ0uBVH-10,3loQ4SEDico,2K_EYasST78,hB5dDyZYNC0,Cx3E0PaLJbs,69vlIQ7Zous,0gS6CBqm4eQ,bNvp7qX24kw,gnUZIMrlPFY,5KnLRoz3kL8,y_IJXtYrHyE,d6bGptrGyRA,aKx59uipW0o,GNaMgweEr9I,_e-_sLxJ1WI,4ubkK4O4Sf8,1L2NMDgDpbE,Jp947NNH6Is)
 1. :cd: "[1973](https://www.youtube.com/watch?v=g8vHqU9giRY)"
-1. :fire: "[One of the Brightest Stars](https://www.youtube.com/watch?v=6caQKKnQfR0)" (live from iTunes Live London Festival, 2008)
+1. :cd: "[One of the Brightest Stars](https://www.youtube.com/watch?v=qRQ0uBVH-10)"
 1. :cd: "[I'll Take Everything](https://www.youtube.com/watch?v=3loQ4SEDico)"
-1. :cd: "[Same Mistake](https://www.youtube.com/watch?v=rQKGjkP_hLo)"
-1. :fire: "[Carry You Home](https://www.youtube.com/watch?v=zNXoFURj7Ow)" (live from iTunes Live London Festival, 2008)
-1. :fire: "[Give Me Some Love](https://www.youtube.com/watch?v=WX98eRU1RPU)" (live from iTunes Live London Festival, 2008)
-1. :fire: "[I Really Want You](https://www.youtube.com/watch?v=4eapcyJKiNo)" (live from iTunes Live London Festival, 2008)
+1. :cd: "[Same Mistake](https://www.youtube.com/watch?v=2K_EYasST78)"
+1. :cd: "[Carry You Home](https://www.youtube.com/watch?v=hB5dDyZYNC0)"
+1. :cd: "[Give Me Some Love](https://www.youtube.com/watch?v=Cx3E0PaLJbs)"
+1. :cd: "[I Really Want You](https://www.youtube.com/watch?v=69vlIQ7Zous)"
 1. :cd: "[Shine On](https://www.youtube.com/watch?v=0gS6CBqm4eQ)"
 1. :cd: "[Annie](https://www.youtube.com/watch?v=bNvp7qX24kw)"
 1. :cd: "[I Can't Hear the Music](https://www.youtube.com/watch?v=gnUZIMrlPFY)"
 1. :cd: "[Love, Love, Love](https://www.youtube.com/watch?v=5KnLRoz3kL8)" (from deluxe edition)
-1. :fire: "[Cuz I Love You](https://www.youtube.com/watch?v=Z3ZG2STx0UA)" (live from Glastonbury, 2008, Slade cover, from deluxe edition)
-1. :fire: "[Young Folks](https://www.youtube.com/watch?v=ywC9OCy1q6E)" (live from Jo While Live Lounge, 2007, from deluxe edition)
-1. :fire: "[Breakfast in America](https://www.youtube.com/watch?v=d6bGptrGyRA)" (live from unknown place, Supertramp cover, from deluxe edition)
-1. :cd: "[Primavera in anticipo (It Is My Song)](https://www.youtube.com/watch?v=DJj_9i577Go)" (from single by Laura Pausini)
-1. :cd: "[Je réalise](https://www.youtube.com/watch?v=4ubkK4O4Sf8)" (from single by Sinik)
-1. :cd: "[Dear Katie](https://www.youtube.com/watch?v=UOIpalbOThc)" (from B-side of "1973")
+1. :fire: "[Cuz I Love You](https://www.youtube.com/watch?v=y_IJXtYrHyE)" (live from Glastonbury, 2008, Slade cover, from deluxe edition)
+1. :fire: "[Breakfast in America](https://www.youtube.com/watch?v=d6bGptrGyRA)" (live from Hammersmith Apollo, London, 2008, Supertramp cover, from deluxe edition)
+1. :cd: "[Dear Katie](https://www.youtube.com/watch?v=aKx59uipW0o)" (from B-side of "1973")
 1. :cd: "[So Happy](https://www.youtube.com/watch?v=GNaMgweEr9I)" (from B-side of "1973")
+1. :fire: "[Young Folks](https://www.youtube.com/watch?v=_e-_sLxJ1WI)" (live from Radio 1 Jo Whiley Live Lounge, 2007, Peter Bjorn and John cover, from B-side of "Carry You Home")
+1. :cd: "[Je réalise](https://www.youtube.com/watch?v=4ubkK4O4Sf8)" (from "Le toit du monde" album by Sinik)
+1. :cd: "[Primavera in anticipo (It Is My Song)](https://www.youtube.com/watch?v=1L2NMDgDpbE)" (from "Primavera in anticipo" album by Laura Pausini)
+1. :cd: "[Everybody Hurts](https://www.youtube.com/watch?v=Jp947NNH6Is)" (R.E.M. cover, from Helping Haiti charity single)
 
 ### [Some Kind of Trouble](https://www.youtube.com/watch_videos?title=Some%20Kind%20of%20Trouble&video_ids=VjXQc0qplWk,ffuPKpaLjLg,eSee1DNyMyg,QfiJ4CySJSE,gQPPztimPXs,GL9esIRRyCk,uCYr7Q2EVio,Ej13DeRaaOw,v-Xcyv2JAmg,IUkLOUNxP8A,riz4AA35hD4,qXURanouVoU,sTLUj_Ogc8I,86LYA4GK9Fc,3-1te-33RWI,pJlGGAiqDa8)
 1. :cd: "[Stay the Night](https://www.youtube.com/watch?v=VjXQc0qplWk)"
