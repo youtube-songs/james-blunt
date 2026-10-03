@@ -86,24 +86,24 @@
 1. :cd: "[Heroes](https://www.youtube.com/watch?v=uByk9ScQKFo)" (from B-side of "Bonfire Heart")
 1. :cd: "[I Guess That's Why They Call It the Blues](https://www.youtube.com/watch?v=2XGRM9b5ncE)" (Elton John cover, from BBC Radio 2: Sounds of the 80s)
 
-### [The Afterlove](https://www.youtube.com/watch_videos?title=The%20Afterlove&video_ids=RFHHEac83B8,QAyjgG0-Deg,llvGsoi4xwQ,yJZh9NWdXrE,_JfGdDtBstQ,Wgs2ahWHjHQ,N12lUcqYUL0,QeIK7OeoKFc,egwr4PNDBQM,UliRcD0FEAI,D-cPwHBqG-w,orS6b4YQGPs,qBeR8byJy3w,9kxQ7GFngTA,8O1CcwYf79I,hXrtQjiyfBg,q_5KPQR1Lrs)
-1. :cd: "[Love Me Better](https://www.youtube.com/watch?v=RFHHEac83B8)"
-1. :cd: "[Bartender](https://www.youtube.com/watch?v=QAyjgG0-Deg)"
-1. :cd: "[Lose My Number](https://www.youtube.com/watch?v=llvGsoi4xwQ)"
-1. :cd: "[Don't Give Me Those Eyes](https://www.youtube.com/watch?v=yJZh9NWdXrE)"
-1. :fire: "[Someone Singing Along](https://www.youtube.com/watch?v=_JfGdDtBstQ)" (live from Sacramento, California, 2017)
-1. :cd: "[California](https://www.youtube.com/watch?v=Wgs2ahWHjHQ)"
+### [The Afterlove](https://www.youtube.com/watch_videos?title=The%20Afterlove&video_ids=isK2g5ZGJBg,ZLClCNY6KpQ,fwckRBYB0FQ,afn932s4xF8,XiP_lkMila4,IS9jyTFfEXg,N12lUcqYUL0,QeIK7OeoKFc,egwr4PNDBQM,UliRcD0FEAI,ahlamr7jE4M,orS6b4YQGPs,qBeR8byJy3w,9kxQ7GFngTA,z3eGS78gRCE,GdhSz6Kfiys,eF6YMwfMVYs)
+1. :cd: "[Love Me Better](https://www.youtube.com/watch?v=isK2g5ZGJBg)"
+1. :cd: "[Bartender](https://www.youtube.com/watch?v=ZLClCNY6KpQ)"
+1. :cd: "[Lose My Number](https://www.youtube.com/watch?v=fwckRBYB0FQ)"
+1. :cd: "[Don't Give Me Those Eyes](https://www.youtube.com/watch?v=afn932s4xF8)"
+1. :cd: "[Someone Singing Along](https://www.youtube.com/watch?v=XiP_lkMila4)"
+1. :cd: "[California](https://www.youtube.com/watch?v=IS9jyTFfEXg)"
 1. :cd: "[Make Me Better](https://www.youtube.com/watch?v=N12lUcqYUL0)"
 1. :cd: "[Time of Our Lives](https://www.youtube.com/watch?v=QeIK7OeoKFc)"
 1. :cd: "[Heartbeat](https://www.youtube.com/watch?v=egwr4PNDBQM)"
 1. :cd: "[Paradise](https://www.youtube.com/watch?v=UliRcD0FEAI)"
-1. :cd: "[Courtney's Song](https://www.youtube.com/watch?v=D-cPwHBqG-w)" (from extended version)
+1. :cd: "[Courtney's Song](https://www.youtube.com/watch?v=ahlamr7jE4M)" (from extended version)
 1. :cd: "[2005](https://www.youtube.com/watch?v=orS6b4YQGPs)" (from extended version)
 1. :cd: "[Over](https://www.youtube.com/watch?v=qBeR8byJy3w)" (from extended version)
-1. :fire: "[OK](https://www.youtube.com/watch?v=9kxQ7GFngTA)" (live from Ed Sheeran Tour, Tampa, 2017, from extended version)
-1. :cd: "[Bridge over Troubled Water](https://www.youtube.com/watch?v=8O1CcwYf79I)" (Simon & Garfunkel cover, from Artists for Grenfell Tower charity single)
-1. :cd: "[Melody](https://www.youtube.com/watch?v=hXrtQjiyfBg)" (from "Alive and Feeling Fine" album by Lost Frequencies)
-1. :cd: "[Walk Away](https://www.youtube.com/watch?v=q_5KPQR1Lrs)" (from "Sticker on My Suitcase" album by Alle Farben)
+1. :fire: "[OK](https://www.youtube.com/watch?v=9kxQ7GFngTA)" (live from Ed Sheeran Tour, Tampa, 2017, from single by Robin Schulz)
+1. :cd: "[Bridge over Troubled Water](https://www.youtube.com/watch?v=z3eGS78gRCE)" (Simon & Garfunkel cover, from Artists for Grenfell Tower charity single)
+1. :cd: "[Melody](https://www.youtube.com/watch?v=GdhSz6Kfiys)" (from single by Lost Frequencies)
+1. :cd: "[Walk Away](https://www.youtube.com/watch?v=eF6YMwfMVYs)" (from single by Alle Farben)
 
 ### [Once Upon a Mind](https://www.youtube.com/watch_videos?title=Once%20Upon%20a%20Mind&video_ids=wc4RUrA05LU,6--sRjqlRaw,HOkSkTIQqQM,DTFbGcnl0po,BBW1JLJpV1o,dyPc7UHLXws,Okvmo4wsCs8,vNnq0xphtd4,E2GqYX9-UBA,wmaCCwiJ54U,DJVINNsf_QE,1JtlfpXRMAE,4X6mrJbtmX4,iW39_R-JZl0,gQ6CYMMU_Qk,sFRtMtsFHRA)
 1. :cd: "[The Truth](https://www.youtube.com/watch?v=wc4RUrA05LU)"
