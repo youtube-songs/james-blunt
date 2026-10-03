@@ -44,22 +44,22 @@
 1. :cd: "[Primavera in anticipo (It Is My Song)](https://www.youtube.com/watch?v=1L2NMDgDpbE)" (from "Primavera in anticipo" album by Laura Pausini)
 1. :cd: "[Everybody Hurts](https://www.youtube.com/watch?v=Jp947NNH6Is)" (R.E.M. cover, from Helping Haiti charity single)
 
-### [Some Kind of Trouble](https://www.youtube.com/watch_videos?title=Some%20Kind%20of%20Trouble&video_ids=VjXQc0qplWk,ffuPKpaLjLg,eSee1DNyMyg,QfiJ4CySJSE,gQPPztimPXs,GL9esIRRyCk,uCYr7Q2EVio,Ej13DeRaaOw,v-Xcyv2JAmg,IUkLOUNxP8A,riz4AA35hD4,qXURanouVoU,sTLUj_Ogc8I,86LYA4GK9Fc,3-1te-33RWI,pJlGGAiqDa8)
+### [Some Kind of Trouble](https://www.youtube.com/watch_videos?title=Some%20Kind%20of%20Trouble&video_ids=VjXQc0qplWk,gQgTOpGE06Y,eSee1DNyMyg,zSgsTLZphTU,gQPPztimPXs,GL9esIRRyCk,uCYr7Q2EVio,Ej13DeRaaOw,v-Xcyv2JAmg,6T3-Q5vdMYc,GcQq0E5SpHY,qXURanouVoU,sTLUj_Ogc8I,WhKzNrA4n48,3-1te-33RWI,pJlGGAiqDa8)
 1. :cd: "[Stay the Night](https://www.youtube.com/watch?v=VjXQc0qplWk)"
-1. :cd: "[Dangerous](https://www.youtube.com/watch?v=ffuPKpaLjLg)"
+1. :cd: "[Dangerous](https://www.youtube.com/watch?v=gQgTOpGE06Y)"
 1. :cd: "[Best Laid Plans](https://www.youtube.com/watch?v=eSee1DNyMyg)"
-1. :fire: "[So Far Gone](https://www.youtube.com/watch?v=QfiJ4CySJSE)" (live from Metropolis Studios, London, 2010)
+1. :cd: "[So Far Gone](https://www.youtube.com/watch?v=zSgsTLZphTU)"
 1. :cd: "[No Tears](https://www.youtube.com/watch?v=gQPPztimPXs)"
 1. :cd: "[Superstar](https://www.youtube.com/watch?v=GL9esIRRyCk)"
 1. :cd: "[These Are the Words](https://www.youtube.com/watch?v=uCYr7Q2EVio)"
 1. :cd: "[Calling Out Your Name](https://www.youtube.com/watch?v=Ej13DeRaaOw)"
 1. :cd: "[Heart of Gold](https://www.youtube.com/watch?v=v-Xcyv2JAmg)"
-1. :cd: "[I'll Be Your Man](https://www.youtube.com/watch?v=IUkLOUNxP8A)"
-1. :fire: "[If Time Is All I Have](https://www.youtube.com/watch?v=riz4AA35hD4)" (live from Metropolis Studios, London, 2010)
+1. :cd: "[I'll Be Your Man](https://www.youtube.com/watch?v=6T3-Q5vdMYc)"
+1. :cd: "[If Time Is All I Have](https://www.youtube.com/watch?v=GcQq0E5SpHY)"
 1. :cd: "[Turn Me On](https://www.youtube.com/watch?v=qXURanouVoU)"
-1. :cd: "[There She Goes Again](https://www.youtube.com/watch?v=sTLUj_Ogc8I)" (from digital edition bonus)
-1. :cd: "[Into the Dark](https://www.youtube.com/watch?v=86LYA4GK9Fc)" (from digital edition bonus)
-1. :cd: "[This Love Again](https://www.youtube.com/watch?v=3-1te-33RWI)" (from B-side of "I'll Be Your Man")
+1. :cd: "[There She Goes Again](https://www.youtube.com/watch?v=sTLUj_Ogc8I)" (from Amazon edition bonus)
+1. :cd: "[Into the Dark](https://www.youtube.com/watch?v=WhKzNrA4n48)" (from iTunes edition bonus)
+1. :cd: "[This Love Again](https://www.youtube.com/watch?v=3-1te-33RWI)" (from Japanese edition bonus)
 1. :cd: "[Why Do I Fall](https://www.youtube.com/watch?v=pJlGGAiqDa8)" (from "Titeuf" soundtrack)
 
 ### [Moon Landing](https://www.youtube.com/watch_videos?title=Moon%20Landing&video_ids=qSg-sqnINd0,XyLQjMC2Q38,g1j1qwQQ8-Q,CsFb661EXsI,YTsIt4JQXHs,d_kLQo6Rv6g,qT9SPeyNe8w,nSti9yvsQLI,zKBGTbd-epM,DB7jsjt4Uec,MQsdrs78MSo,TOQDppcjB-c,yEl5m8eELeI,ydcN_-FlLnA,neV-1_KYgeY,j6em8Baa5Dg,PBfb_C1vb3I,OyAqb6aUUd4,6pu9jeiJwUg,E6xcl3NL8RU,yKR5CHbifEo,3j9YJo9IdFQ)
