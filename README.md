@@ -62,29 +62,29 @@
 1. :cd: "[This Love Again](https://www.youtube.com/watch?v=3-1te-33RWI)" (from Japanese edition bonus)
 1. :cd: "[Why Do I Fall](https://www.youtube.com/watch?v=pJlGGAiqDa8)" (from "Titeuf" soundtrack)
 
-### [Moon Landing](https://www.youtube.com/watch_videos?title=Moon%20Landing&video_ids=qSg-sqnINd0,XyLQjMC2Q38,g1j1qwQQ8-Q,CsFb661EXsI,YTsIt4JQXHs,d_kLQo6Rv6g,qT9SPeyNe8w,nSti9yvsQLI,zKBGTbd-epM,DB7jsjt4Uec,MQsdrs78MSo,TOQDppcjB-c,yEl5m8eELeI,ydcN_-FlLnA,neV-1_KYgeY,j6em8Baa5Dg,PBfb_C1vb3I,OyAqb6aUUd4,6pu9jeiJwUg,E6xcl3NL8RU,yKR5CHbifEo,3j9YJo9IdFQ)
+### [Moon Landing](https://www.youtube.com/watch_videos?title=Moon%20Landing&video_ids=qSg-sqnINd0,jaYpfUISfik,oVIaL5CovIU,-Y2qAiwSm7I,YTsIt4JQXHs,d_kLQo6Rv6g,qT9SPeyNe8w,nSti9yvsQLI,zKBGTbd-epM,1thh7YPSNo8,UkN0Huf2wus,ydcN_-FlLnA,neV-1_KYgeY,j6em8Baa5Dg,TOQDppcjB-c,7LJOzIrNRMc,PBfb_C1vb3I,OyAqb6aUUd4,6pu9jeiJwUg,0LvbBNq_gz8,uByk9ScQKFo,2XGRM9b5ncE)
 1. :cd: "[Face the Sun](https://www.youtube.com/watch?v=qSg-sqnINd0)"
-1. :cd: "[Satellites](https://www.youtube.com/watch?v=XyLQjMC2Q38)"
-1. :cd: "[Bonfire Heart](https://www.youtube.com/watch?v=g1j1qwQQ8-Q)"
-1. :cd: "[Heart to Heart](https://www.youtube.com/watch?v=CsFb661EXsI)"
+1. :cd: "[Satellites](https://www.youtube.com/watch?v=jaYpfUISfik)"
+1. :cd: "[Bonfire Heart](https://www.youtube.com/watch?v=oVIaL5CovIU)"
+1. :cd: "[Heart to Heart](https://www.youtube.com/watch?v=-Y2qAiwSm7I)"
 1. :cd: "[Miss America](https://www.youtube.com/watch?v=YTsIt4JQXHs)"
 1. :cd: "[The Only One](https://www.youtube.com/watch?v=d_kLQo6Rv6g)"
 1. :cd: "[Sun on Sunday](https://www.youtube.com/watch?v=qT9SPeyNe8w)"
 1. :cd: "[Bones](https://www.youtube.com/watch?v=nSti9yvsQLI)"
 1. :cd: "[Always Hate Me](https://www.youtube.com/watch?v=zKBGTbd-epM)"
-1. :cd: "[Postcards](https://www.youtube.com/watch?v=DB7jsjt4Uec)"
-1. :cd: "[Blue on Blue](https://www.youtube.com/watch?v=MQsdrs78MSo)"
+1. :cd: "[Postcards](https://www.youtube.com/watch?v=1thh7YPSNo8)"
+1. :cd: "[Blue on Blue](https://www.youtube.com/watch?v=UkN0Huf2wus)"
+1. :cd: "[Telephone](https://www.youtube.com/watch?v=ydcN_-FlLnA)" (from deluxe edition)
+1. :cd: "[Kiss This Love Goodbye](https://www.youtube.com/watch?v=neV-1_KYgeY)" (from deluxe edition)
+1. :cd: "[Hollywood](https://www.youtube.com/watch?v=j6em8Baa5Dg)" (from deluxe edition)
 1. :cd: "[Smoke Signals](https://www.youtube.com/watch?v=TOQDppcjB-c)" (from Apollo Edition)
-1. :cd: "[When I Find Love Again](https://www.youtube.com/watch?v=yEl5m8eELeI)" (from Apollo Edition)
-1. :cd: "[Telephone](https://www.youtube.com/watch?v=ydcN_-FlLnA)" (from Apollo Edition)
-1. :cd: "[Kiss This Love Goodbye](https://www.youtube.com/watch?v=neV-1_KYgeY)" (from Apollo Edition)
-1. :cd: "[Hollywood](https://www.youtube.com/watch?v=j6em8Baa5Dg)" (from Apollo Edition)
+1. :cd: "[When I Find Love Again](https://www.youtube.com/watch?v=7LJOzIrNRMc)" (from Apollo Edition)
 1. :cd: "[Breathe](https://www.youtube.com/watch?v=PBfb_C1vb3I)" (from Apollo Edition)
 1. :cd: "[Trail of Broken Hearts](https://www.youtube.com/watch?v=OyAqb6aUUd4)" (from Apollo Edition)
 1. :cd: "[Working It Out](https://www.youtube.com/watch?v=6pu9jeiJwUg)" (from Apollo Edition)
-1. :cd: "[Next Time I'm Seventeen](https://www.youtube.com/watch?v=E6xcl3NL8RU)" (from B-side of "Bonfire Heart")
-1. :cd: "[Heroes](https://www.youtube.com/watch?v=yKR5CHbifEo)" (from B-side of "Bonfire Heart")
-1. :cd: "[I Guess That's Why They Call It the Blues](https://www.youtube.com/watch?v=3j9YJo9IdFQ)" (Elton John cover, from BBC Radio 2: Sounds of the 80s)
+1. :cd: "[Next Time I'm Seventeen](https://www.youtube.com/watch?v=0LvbBNq_gz8)" (from B-side of "Bonfire Heart")
+1. :cd: "[Heroes](https://www.youtube.com/watch?v=uByk9ScQKFo)" (from B-side of "Bonfire Heart")
+1. :cd: "[I Guess That's Why They Call It the Blues](https://www.youtube.com/watch?v=2XGRM9b5ncE)" (Elton John cover, from BBC Radio 2: Sounds of the 80s)
 
 ### [The Afterlove](https://www.youtube.com/watch_videos?title=The%20Afterlove&video_ids=RFHHEac83B8,QAyjgG0-Deg,llvGsoi4xwQ,yJZh9NWdXrE,_JfGdDtBstQ,Wgs2ahWHjHQ,N12lUcqYUL0,QeIK7OeoKFc,egwr4PNDBQM,UliRcD0FEAI,D-cPwHBqG-w,orS6b4YQGPs,qBeR8byJy3w,9kxQ7GFngTA,8O1CcwYf79I,hXrtQjiyfBg,q_5KPQR1Lrs)
 1. :cd: "[Love Me Better](https://www.youtube.com/watch?v=RFHHEac83B8)"
