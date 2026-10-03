@@ -22,6 +22,12 @@ title: James Blunt
         id: oCXMq3JPEm8
     'No Bravery':
         id: MYSU8pSXLcc
+    'Dancing Days':
+        id: 8o3qKiwjNtM
+        source: 20th anniversary edition
+    'Standing All Alone':
+        id: CL2etiP4K-o
+        source: 20th anniversary edition
     'Sugar-Coated':
         id: YeWfePCXcAk
         source: B-side of "High"
@@ -41,16 +47,10 @@ title: James Blunt
         id: svjmSQTOO6Y
         source: B-side of "Goodbye My Lover"
     'Where Is My Mind?':
-        id: x-P9LsOhvrc
+        id: P0nyycsDjtA
         cover: Pixies
-        live: St James's Church, Dingle, Ireland, 2005
+        live: La Cigale, Paris, 2005
         source: B-side of "Goodbye My Lover"
-    'Dancing Days':
-        id: 8o3qKiwjNtM
-        source: 20th anniversary edition
-    'Standing All Alone':
-        id: CL2etiP4K-o
-        source: 20th anniversary edition
     'I Want You':
         id: czCwC0BrMc8
         cover: Bob Dylan
@@ -68,21 +68,17 @@ title: James Blunt
     '1973':
         id: g8vHqU9giRY
     'One of the Brightest Stars':
-        id: 6caQKKnQfR0
-        live: iTunes Live London Festival, 2008
+        id: qRQ0uBVH-10
     "I'll Take Everything":
         id: 3loQ4SEDico
     'Same Mistake':
-        id: rQKGjkP_hLo
+        id: 2K_EYasST78
     'Carry You Home':
-        id: zNXoFURj7Ow
-        live: iTunes Live London Festival, 2008
+        id: hB5dDyZYNC0
     'Give Me Some Love':
-        id: WX98eRU1RPU
-        live: iTunes Live London Festival, 2008
+        id: Cx3E0PaLJbs
     'I Really Want You':
-        id: 4eapcyJKiNo
-        live: iTunes Live London Festival, 2008
+        id: 69vlIQ7Zous
     'Shine On':
         id: 0gS6CBqm4eQ
     'Annie':
@@ -93,31 +89,36 @@ title: James Blunt
         id: 5KnLRoz3kL8
         source: deluxe edition
     'Cuz I Love You':
-        id: Z3ZG2STx0UA
+        id: y_IJXtYrHyE
         cover: Slade
         live: Glastonbury, 2008
-        source: deluxe edition
-    'Young Folks':
-        id: ywC9OCy1q6E
-        live: Jo While Live Lounge, 2007
         source: deluxe edition
     'Breakfast in America':
         id: d6bGptrGyRA
         cover: Supertramp
-        live: unknown place
+        live: Hammersmith Apollo, London, 2008
         source: deluxe edition
-    'Primavera in anticipo (It Is My Song)':
-        id: DJj_9i577Go
-        source: single by Laura Pausini
-    'Je réalise':
-        id: 4ubkK4O4Sf8
-        source: single by Sinik
     'Dear Katie':
-        id: UOIpalbOThc
+        id: aKx59uipW0o
         source: B-side of "1973"
     'So Happy':
         id: GNaMgweEr9I
         source: B-side of "1973"
+    'Young Folks':
+        id: _e-_sLxJ1WI
+        cover: Peter Bjorn and John
+        live: Radio 1 Jo Whiley Live Lounge, 2007
+        source: B-side of "Carry You Home"
+    'Je réalise':
+        id: 4ubkK4O4Sf8
+        source: '"Le toit du monde" album by Sinik'
+    'Primavera in anticipo (It Is My Song)':
+        id: 1L2NMDgDpbE
+        source: '"Primavera in anticipo" album by Laura Pausini'
+    'Everybody Hurts':
+        id: Jp947NNH6Is
+        cover: R.E.M.
+        source: Helping Haiti charity single
 
 'Some Kind of Trouble':
     'Stay the Night':
