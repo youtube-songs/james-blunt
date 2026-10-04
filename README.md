@@ -40,8 +40,8 @@
 1. :cd: "[Dear Katie](https://www.youtube.com/watch?v=aKx59uipW0o)" (from B-side of "1973")
 1. :cd: "[So Happy](https://www.youtube.com/watch?v=GNaMgweEr9I)" (from B-side of "1973")
 1. :fire: "[Young Folks](https://www.youtube.com/watch?v=_e-_sLxJ1WI)" (live from Radio 1 Jo Whiley Live Lounge, 2007, Peter Bjorn and John cover, from B-side of "Carry You Home")
-1. :cd: "[Je réalise](https://www.youtube.com/watch?v=4ubkK4O4Sf8)" (from "Le toit du monde" album by Sinik)
-1. :cd: "[Primavera in anticipo (It Is My Song)](https://www.youtube.com/watch?v=1L2NMDgDpbE)" (from "Primavera in anticipo" album by Laura Pausini)
+1. :cd: "[Je réalise](https://www.youtube.com/watch?v=4ubkK4O4Sf8)" (from single by Sinik)
+1. :cd: "[Primavera in anticipo (It Is My Song)](https://www.youtube.com/watch?v=1L2NMDgDpbE)" (from single by Laura Pausini)
 1. :cd: "[Everybody Hurts](https://www.youtube.com/watch?v=Jp947NNH6Is)" (R.E.M. cover, from Helping Haiti charity single)
 
 ### [Some Kind of Trouble](https://www.youtube.com/watch_videos?title=Some%20Kind%20of%20Trouble&video_ids=VjXQc0qplWk,gQgTOpGE06Y,eSee1DNyMyg,zSgsTLZphTU,gQPPztimPXs,GL9esIRRyCk,uCYr7Q2EVio,Ej13DeRaaOw,v-Xcyv2JAmg,6T3-Q5vdMYc,GcQq0E5SpHY,qXURanouVoU,sTLUj_Ogc8I,WhKzNrA4n48,3-1te-33RWI,pJlGGAiqDa8)
@@ -105,25 +105,27 @@
 1. :cd: "[Melody](https://www.youtube.com/watch?v=GdhSz6Kfiys)" (from single by Lost Frequencies)
 1. :cd: "[Walk Away](https://www.youtube.com/watch?v=eF6YMwfMVYs)" (from single by Alle Farben)
 
-### [Once Upon a Mind](https://www.youtube.com/watch_videos?title=Once%20Upon%20a%20Mind&video_ids=wc4RUrA05LU,6--sRjqlRaw,HOkSkTIQqQM,DTFbGcnl0po,BBW1JLJpV1o,dyPc7UHLXws,Okvmo4wsCs8,vNnq0xphtd4,E2GqYX9-UBA,wmaCCwiJ54U,DJVINNsf_QE,1JtlfpXRMAE,4X6mrJbtmX4,iW39_R-JZl0,gQ6CYMMU_Qk,sFRtMtsFHRA)
-1. :cd: "[The Truth](https://www.youtube.com/watch?v=wc4RUrA05LU)"
-1. :cd: "[Cold](https://www.youtube.com/watch?v=6--sRjqlRaw)"
-1. :cd: "[Champions](https://www.youtube.com/watch?v=HOkSkTIQqQM)"
-1. :cd: "[Monsters](https://www.youtube.com/watch?v=DTFbGcnl0po)"
-1. :cd: "[Youngster](https://www.youtube.com/watch?v=BBW1JLJpV1o)"
-1. :cd: "[5 Miles](https://www.youtube.com/watch?v=dyPc7UHLXws)"
-1. :cd: "[How It Feels to Be Alive](https://www.youtube.com/watch?v=Okvmo4wsCs8)"
-1. :cd: "[I Told You](https://www.youtube.com/watch?v=vNnq0xphtd4)"
-1. :cd: "[Halfway](https://www.youtube.com/watch?v=E2GqYX9-UBA)"
-1. :cd: "[Stop the Clock](https://www.youtube.com/watch?v=wmaCCwiJ54U)"
-1. :cd: "[The Greatest](https://www.youtube.com/watch?v=DJVINNsf_QE)"
+### [Once Upon a Mind](https://www.youtube.com/watch_videos?title=Once%20Upon%20a%20Mind&video_ids=EaQvOQnd3p4,uv3a_9vuZVw,0ZC5PdwjoAc,bGMPohATVr4,Wdew_dP_BiY,-6ooOSVcFGU,CUCTsHS0R4o,wrfW5ah71VU,jwZgkCVk8nQ,raINhIPR160,hcK2d4hFBWg,1JtlfpXRMAE,4X6mrJbtmX4,iW39_R-JZl0,Tzzgmnz9hXM,sFRtMtsFHRA,NtKnm0FdT8U,todcvHFHn3c)
+1. :cd: "[The Truth](https://www.youtube.com/watch?v=EaQvOQnd3p4)"
+1. :cd: "[Cold](https://www.youtube.com/watch?v=uv3a_9vuZVw)"
+1. :cd: "[Champions](https://www.youtube.com/watch?v=0ZC5PdwjoAc)"
+1. :cd: "[Monsters](https://www.youtube.com/watch?v=bGMPohATVr4)"
+1. :cd: "[Youngster](https://www.youtube.com/watch?v=Wdew_dP_BiY)"
+1. :cd: "[5 Miles](https://www.youtube.com/watch?v=-6ooOSVcFGU)"
+1. :cd: "[How It Feels to Be Alive](https://www.youtube.com/watch?v=CUCTsHS0R4o)"
+1. :cd: "[I Told You](https://www.youtube.com/watch?v=wrfW5ah71VU)"
+1. :cd: "[Halfway](https://www.youtube.com/watch?v=jwZgkCVk8nQ)"
+1. :cd: "[Stop the Clock](https://www.youtube.com/watch?v=raINhIPR160)"
+1. :cd: "[The Greatest](https://www.youtube.com/watch?v=hcK2d4hFBWg)"
 1. :cd: "[Should I Give It All Up](https://www.youtube.com/watch?v=1JtlfpXRMAE)" (from Time Suspended edition)
 1. :cd: "[Happier](https://www.youtube.com/watch?v=4X6mrJbtmX4)" (from Time Suspended edition)
 1. :cd: "[Love Under Pressure](https://www.youtube.com/watch?v=iW39_R-JZl0)" (from "The Stars Beneath My Feet (2004–2021)" compilation album)
-1. :cd: "[Adrenaline](https://www.youtube.com/watch?v=gQ6CYMMU_Qk)" (from "The Stars Beneath My Feet (2004–2021)" compilation album)
+1. :cd: "[Adrenaline](https://www.youtube.com/watch?v=Tzzgmnz9hXM)" (from "The Stars Beneath My Feet (2004–2021)" compilation album)
 1. :cd: "[Unstoppable](https://www.youtube.com/watch?v=sFRtMtsFHRA)" (from "The Stars Beneath My Feet (2004–2021)" compilation album)
+1. :cd: "[I Came for Love](https://www.youtube.com/watch?v=NtKnm0FdT8U)" (from "The Stars Beneath My Feet (2004–2021)" compilation album)
+1. :cd: "[Can't Forget You](https://www.youtube.com/watch?v=todcvHFHn3c)" (from single by James Carter & Ofenbach)
 
-### [Who We Used to Be](https://www.youtube.com/watch_videos?title=Who%20We%20Used%20to%20Be&video_ids=GuPWq-d6U0U,RI0HJhmhJiQ,O4ce48whOo0,1OAG4-eT9Gk,StahDvuzb5w,NO0W5o5VWYE,--hVkcGyWlI,DgMcum5M-0Q,sFClYIicGOw,pI2otpEzFBI,CzteHhr7_TQ,depku1_U_dQ,McxM4cCpbrc,BE34fuedcDg,todcvHFHn3c)
+### [Who We Used to Be](https://www.youtube.com/watch_videos?title=Who%20We%20Used%20to%20Be&video_ids=GuPWq-d6U0U,RI0HJhmhJiQ,O4ce48whOo0,1OAG4-eT9Gk,StahDvuzb5w,NO0W5o5VWYE,--hVkcGyWlI,DgMcum5M-0Q,sFClYIicGOw,pI2otpEzFBI,CzteHhr7_TQ,depku1_U_dQ,McxM4cCpbrc,BE34fuedcDg)
 1. :cd: "[Saving a Life](https://www.youtube.com/watch?v=GuPWq-d6U0U)"
 1. :cd: "[Some Kind of Beautiful](https://www.youtube.com/watch?v=RI0HJhmhJiQ)"
 1. :cd: "[Beside You](https://www.youtube.com/watch?v=O4ce48whOo0)"
@@ -138,4 +140,3 @@
 1. :cd: "[Care a Little Less](https://www.youtube.com/watch?v=depku1_U_dQ)" (from deluxe edition)
 1. :cd: "[A Thousand Lives](https://www.youtube.com/watch?v=McxM4cCpbrc)" (from deluxe edition)
 1. :cd: "[When You're Gone](https://www.youtube.com/watch?v=BE34fuedcDg)" (from deluxe edition)
-1. :cd: "[Can't Forget You](https://www.youtube.com/watch?v=todcvHFHn3c)" (from single by James Carter)
