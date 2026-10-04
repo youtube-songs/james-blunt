@@ -111,10 +111,10 @@ title: James Blunt
         source: B-side of "Carry You Home"
     'Je réalise':
         id: 4ubkK4O4Sf8
-        source: '"Le toit du monde" album by Sinik'
+        source: single by Sinik
     'Primavera in anticipo (It Is My Song)':
         id: 1L2NMDgDpbE
-        source: '"Primavera in anticipo" album by Laura Pausini'
+        source: single by Laura Pausini
     'Everybody Hurts':
         id: Jp947NNH6Is
         cover: R.E.M.
@@ -263,27 +263,27 @@ title: James Blunt
 
 'Once Upon a Mind':
     'The Truth':
-        id: wc4RUrA05LU
+        id: EaQvOQnd3p4
     'Cold':
-        id: 6--sRjqlRaw
+        id: uv3a_9vuZVw
     'Champions':
-        id: HOkSkTIQqQM
+        id: 0ZC5PdwjoAc
     'Monsters':
-        id: DTFbGcnl0po
+        id: bGMPohATVr4
     'Youngster':
-        id: BBW1JLJpV1o
+        id: Wdew_dP_BiY
     '5 Miles':
-        id: dyPc7UHLXws
+        id: -6ooOSVcFGU
     'How It Feels to Be Alive':
-        id: Okvmo4wsCs8
+        id: CUCTsHS0R4o
     'I Told You':
-        id: vNnq0xphtd4
+        id: wrfW5ah71VU
     'Halfway':
-        id: E2GqYX9-UBA
+        id: jwZgkCVk8nQ
     'Stop the Clock':
-        id: wmaCCwiJ54U
+        id: raINhIPR160
     'The Greatest':
-        id: DJVINNsf_QE
+        id: hcK2d4hFBWg
     'Should I Give It All Up':
         id: 1JtlfpXRMAE
         source: Time Suspended edition
@@ -294,11 +294,17 @@ title: James Blunt
         id: iW39_R-JZl0
         source: '"The Stars Beneath My Feet (2004–2021)" compilation album'
     'Adrenaline':
-        id: gQ6CYMMU_Qk
+        id: Tzzgmnz9hXM
         source: '"The Stars Beneath My Feet (2004–2021)" compilation album'
     'Unstoppable':
         id: sFRtMtsFHRA
         source: '"The Stars Beneath My Feet (2004–2021)" compilation album'
+    'I Came for Love':
+        id: NtKnm0FdT8U
+        source: '"The Stars Beneath My Feet (2004–2021)" compilation album'
+    "Can't Forget You":
+        id: todcvHFHn3c
+        source: single by James Carter & Ofenbach
 
 'Who We Used to Be':
     'Saving a Life':
@@ -333,6 +339,3 @@ title: James Blunt
     "When You're Gone":
         id: BE34fuedcDg
         source: deluxe edition
-    "Can't Forget You":
-        id: todcvHFHn3c
-        source: single by James Carter
