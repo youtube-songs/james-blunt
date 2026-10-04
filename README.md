@@ -141,3 +141,8 @@
 1. :cd: "[A Thousand Lives](https://www.youtube.com/watch?v=vYQoI7RJq1U)" (from deluxe edition)
 1. :cd: "[When You're Gone](https://www.youtube.com/watch?v=J3mKJZb9gf0)" (from deluxe edition)
 1. :cd: "[Tears Dry Tonight](https://www.youtube.com/watch?v=a5odIQJzk7k)" (from single by CYRIL)
+
+### [Airplane Mode](https://www.youtube.com/watch_videos?title=Airplane%20Mode&video_ids=GyGSCXs-gmM,bkBhPEu5_V8,Vt60um09aOM)
+1. :cd: "[Circles](https://www.youtube.com/watch?v=GyGSCXs-gmM)"
+1. :cd: "[Tastes Like Summer](https://www.youtube.com/watch?v=bkBhPEu5_V8)"
+1. :cd: "[Weight of It All](https://www.youtube.com/watch?v=Vt60um09aOM)"
