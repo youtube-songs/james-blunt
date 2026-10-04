@@ -125,18 +125,19 @@
 1. :cd: "[I Came for Love](https://www.youtube.com/watch?v=NtKnm0FdT8U)" (from "The Stars Beneath My Feet (2004–2021)" compilation album)
 1. :cd: "[Can't Forget You](https://www.youtube.com/watch?v=todcvHFHn3c)" (from single by James Carter & Ofenbach)
 
-### [Who We Used to Be](https://www.youtube.com/watch_videos?title=Who%20We%20Used%20to%20Be&video_ids=GuPWq-d6U0U,RI0HJhmhJiQ,O4ce48whOo0,1OAG4-eT9Gk,StahDvuzb5w,NO0W5o5VWYE,--hVkcGyWlI,DgMcum5M-0Q,sFClYIicGOw,pI2otpEzFBI,CzteHhr7_TQ,depku1_U_dQ,McxM4cCpbrc,BE34fuedcDg)
-1. :cd: "[Saving a Life](https://www.youtube.com/watch?v=GuPWq-d6U0U)"
-1. :cd: "[Some Kind of Beautiful](https://www.youtube.com/watch?v=RI0HJhmhJiQ)"
+### [Who We Used to Be](https://www.youtube.com/watch_videos?title=Who%20We%20Used%20to%20Be&video_ids=GbkAMCVich0,8i5_-5r6dME,O4ce48whOo0,MioBxyMixKI,O5wh30eG5Y0,NO0W5o5VWYE,THYorM3_mKI,eVofdeyBVbg,sFClYIicGOw,e9FCDkH9e7c,yhKEk-S3POU,ZgxIbQ76Zck,vYQoI7RJq1U,J3mKJZb9gf0,a5odIQJzk7k)
+1. :cd: "[Saving a Life](https://www.youtube.com/watch?v=GbkAMCVich0)"
+1. :cd: "[Some Kind of Beautiful](https://www.youtube.com/watch?v=8i5_-5r6dME)"
 1. :cd: "[Beside You](https://www.youtube.com/watch?v=O4ce48whOo0)"
-1. :cd: "[Last Dance](https://www.youtube.com/watch?v=1OAG4-eT9Gk)"
-1. :cd: "[All the Love That I Ever Needed](https://www.youtube.com/watch?v=StahDvuzb5w)"
+1. :cd: "[Last Dance](https://www.youtube.com/watch?v=MioBxyMixKI)"
+1. :cd: "[All the Love That I Ever Needed](https://www.youtube.com/watch?v=O5wh30eG5Y0)"
 1. :cd: "[The Girl That Never Was](https://www.youtube.com/watch?v=NO0W5o5VWYE)"
-1. :cd: "[Cold Shoulder](https://www.youtube.com/watch?v=--hVkcGyWlI)"
-1. :cd: "[I Won't Die with You](https://www.youtube.com/watch?v=DgMcum5M-0Q)"
+1. :cd: "[Cold Shoulder](https://www.youtube.com/watch?v=THYorM3_mKI)"
+1. :cd: "[I Won't Die with You](https://www.youtube.com/watch?v=eVofdeyBVbg)"
 1. :cd: "[Dark Thought](https://www.youtube.com/watch?v=sFClYIicGOw)"
-1. :cd: "[Glow](https://www.youtube.com/watch?v=pI2otpEzFBI)"
-1. :cd: "[Confetti and Roses](https://www.youtube.com/watch?v=CzteHhr7_TQ)" (from deluxe edition)
-1. :cd: "[Care a Little Less](https://www.youtube.com/watch?v=depku1_U_dQ)" (from deluxe edition)
-1. :cd: "[A Thousand Lives](https://www.youtube.com/watch?v=McxM4cCpbrc)" (from deluxe edition)
-1. :cd: "[When You're Gone](https://www.youtube.com/watch?v=BE34fuedcDg)" (from deluxe edition)
+1. :cd: "[Glow](https://www.youtube.com/watch?v=e9FCDkH9e7c)"
+1. :cd: "[Confetti and Roses](https://www.youtube.com/watch?v=yhKEk-S3POU)" (from deluxe edition)
+1. :cd: "[Care a Little Less](https://www.youtube.com/watch?v=ZgxIbQ76Zck)" (from deluxe edition)
+1. :cd: "[A Thousand Lives](https://www.youtube.com/watch?v=vYQoI7RJq1U)" (from deluxe edition)
+1. :cd: "[When You're Gone](https://www.youtube.com/watch?v=J3mKJZb9gf0)" (from deluxe edition)
+1. :cd: "[Tears Dry Tonight](https://www.youtube.com/watch?v=a5odIQJzk7k)" (from single by CYRIL)
