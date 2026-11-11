@@ -142,7 +142,16 @@
 1. :cd: "[When You're Gone](https://www.youtube.com/watch?v=J3mKJZb9gf0)" (from deluxe edition)
 1. :cd: "[Tears Dry Tonight](https://www.youtube.com/watch?v=a5odIQJzk7k)" (from single by CYRIL)
 
-### [Airplane Mode](https://www.youtube.com/watch_videos?title=Airplane%20Mode&video_ids=GyGSCXs-gmM,bkBhPEu5_V8,Vt60um09aOM)
+### [Airplane Mode](https://www.youtube.com/watch_videos?title=Airplane%20Mode&video_ids=GyGSCXs-gmM,QcHlmNEcu18,ZYKcM5p_-NU,bkBhPEu5_V8,Vt60um09aOM,mN5rmFuLZDM,JF9L0fM6QCk,map-aUa6mtk,NXYRKdPmlp4,41ZKc4yiew4,7-44EJvF0aM,lrrS9qqUVaY)
 1. :cd: "[Circles](https://www.youtube.com/watch?v=GyGSCXs-gmM)"
+1. :cd: "[Time to Time](https://www.youtube.com/watch?v=QcHlmNEcu18)"
+1. :cd: "[Modern Love](https://www.youtube.com/watch?v=ZYKcM5p_-NU)"
 1. :cd: "[Tastes Like Summer](https://www.youtube.com/watch?v=bkBhPEu5_V8)"
 1. :cd: "[Weight of It All](https://www.youtube.com/watch?v=Vt60um09aOM)"
+1. :cd: "[Reason to Die](https://www.youtube.com/watch?v=mN5rmFuLZDM)"
+1. :cd: "[Hey, People](https://www.youtube.com/watch?v=JF9L0fM6QCk)"
+1. :cd: "[In Your Blood](https://www.youtube.com/watch?v=map-aUa6mtk)"
+1. :cd: "[Leftover Time](https://www.youtube.com/watch?v=NXYRKdPmlp4)"
+1. :cd: "[Dancing in My Head](https://www.youtube.com/watch?v=41ZKc4yiew4)"
+1. :cd: "[Oh, Daisy](https://www.youtube.com/watch?v=7-44EJvF0aM)"
+1. :cd: "[This Is Not Forever](https://www.youtube.com/watch?v=lrrS9qqUVaY)"
