@@ -142,7 +142,7 @@
 1. :cd: "[When You're Gone](https://www.youtube.com/watch?v=J3mKJZb9gf0)" (from deluxe edition)
 1. :cd: "[Tears Dry Tonight](https://www.youtube.com/watch?v=a5odIQJzk7k)" (from single by CYRIL)
 
-### [Airplane Mode](https://www.youtube.com/watch_videos?title=Airplane%20Mode&video_ids=GyGSCXs-gmM,QcHlmNEcu18,ZYKcM5p_-NU,bkBhPEu5_V8,Vt60um09aOM,mN5rmFuLZDM,JF9L0fM6QCk,map-aUa6mtk,NXYRKdPmlp4,41ZKc4yiew4,7-44EJvF0aM,lrrS9qqUVaY)
+### [Airplane Mode](https://www.youtube.com/watch_videos?title=Airplane%20Mode&video_ids=GyGSCXs-gmM,QcHlmNEcu18,ZYKcM5p_-NU,bkBhPEu5_V8,Vt60um09aOM,mN5rmFuLZDM,JF9L0fM6QCk,map-aUa6mtk,NXYRKdPmlp4,41ZKc4yiew4,7-44EJvF0aM,lrrS9qqUVaY,zmMQulAR8MU,jS-XC6mUzfg,DCxu7odSrKI,to36twCeqHE)
 1. :cd: "[Circles](https://www.youtube.com/watch?v=GyGSCXs-gmM)"
 1. :cd: "[Time to Time](https://www.youtube.com/watch?v=QcHlmNEcu18)"
 1. :cd: "[Modern Love](https://www.youtube.com/watch?v=ZYKcM5p_-NU)"
@@ -155,3 +155,7 @@
 1. :cd: "[Dancing in My Head](https://www.youtube.com/watch?v=41ZKc4yiew4)"
 1. :cd: "[Oh, Daisy](https://www.youtube.com/watch?v=7-44EJvF0aM)"
 1. :cd: "[This Is Not Forever](https://www.youtube.com/watch?v=lrrS9qqUVaY)"
+1. :cd: "[Losing You Was Easy](https://www.youtube.com/watch?v=zmMQulAR8MU)" (from Red Eye edition)
+1. :cd: "[You Never Learn, Do Ya?](https://www.youtube.com/watch?v=jS-XC6mUzfg)" (from Red Eye edition)
+1. :cd: "[A Little Longer](https://www.youtube.com/watch?v=DCxu7odSrKI)" (from Red Eye edition)
+1. :cd: "[Don't Leave a Light On](https://www.youtube.com/watch?v=to36twCeqHE)" (from Red Eye edition)
